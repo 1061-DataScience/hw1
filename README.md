@@ -23,4 +23,4 @@ example =  result.csv
 
 Please update your code into Github and give its corresponding link.
 i.e., 
-https://raw.githubusercontent.com/warnname/1052DataScience/master/hw1_exam.R
+https://raw.githubusercontent.com/warnname/1061-DataScience/master/hw1_exam.R
