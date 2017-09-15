@@ -2,7 +2,7 @@
 
 ## cmd
 
-ˋˋˋR
+```R
 Rscript hw1_yourID.R -files test.1.csv -out result.csv
 Rscript hw1_yourID.R -out result.csv -files test2.csv
 ˋˋˋ 
