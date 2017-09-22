@@ -8,7 +8,7 @@ Rscript hw1_yourID.R -input input1.csv -out output1.csv
 Rscript hw1_yourID.R -out output1.csv -input input1.csv
 ```
 
-Your R code should output and round the medain value for each column.
+Your R code should output and round the set name with maximum value for each column.
 
 ## Read in an input file
 
