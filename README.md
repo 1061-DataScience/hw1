@@ -1,5 +1,7 @@
 # hw1
 
+### Please remember to email your github ID to TA, thanks. (TA: tammy.xtech@gmail.com)
+
 ## cmd
 
 ```R
